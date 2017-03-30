@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -21,7 +22,6 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeTmpl",
 		"SyncedSideBar"
