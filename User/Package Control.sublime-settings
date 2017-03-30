@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Behat Features",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"CSS Snippets",
+		"CTags",
+		"Emmet",
+		"HTML5",
+		"jQuery",
+		"JS Snippets",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeTmpl"
+	]
+}
