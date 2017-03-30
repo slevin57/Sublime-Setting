@@ -19,9 +19,11 @@
 		"JS Snippets",
 		"MarkdownEditing",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeGit",
-		"SublimeTmpl"
+		"SublimeTmpl",
+		"SyncedSideBar"
 	]
 }
