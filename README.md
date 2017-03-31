@@ -25,6 +25,27 @@ git clone <my repository address> Packages
 
 > 你也可以按如上方式把自己`Packages`文件夹关联到Github上的仓库，这样即使换电脑只要克隆这个仓库到指定位置就可以快速完成配置了。
 
-# 插件清单
+# 插件清单（持续更新...）
 
-# 自定义配置
+- HTML-CSS-JS Prettify
+
+	右键格式化html、css、js三种文件类型的代码。
+- SublimeTextTrans-master
+
+	调整Sublime的透明度。方法：`视图》Windows Transparency`
+- SublimeTmpl
+
+
+- ZZZZZZZZ-Localization
+
+	经典的Sublime汉化包。安装好之后也可以切换成英文或者别的语言，方法：`帮助》Language`。
+- AutoFileName
+
+	自动匹配引入的文件路径。
+- Emmet
+
+	不用多说，前端必备，代码自动补全。
+
+	
+
+# 自定义配置（持续更新...）
