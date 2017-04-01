@@ -101,6 +101,8 @@ git clone <this repository address> Packages
 
 	在用户的快捷键设置中，输入:
 	
-	```[
+	```
+	[
 	{ "keys": ["ctrl+shift+s"], "command": "save_all" }
-	]```
+	]
+	```
