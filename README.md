@@ -36,11 +36,11 @@ git clone <this repository address> Packages
 - HTML-CSS-JS Prettify
 
 	右键格式化html、css、js三种文件类型的代码。
-- SublimeTextTrans-master
+- SublimeTextTrans
 
 	调整Sublime的透明度。方法：`视图》Windows Transparency`。
 
-- ZZZZZZZZ-Localization
+- ChineseLocalization
 
 	经典的Sublime汉化包。安装好之后也可以切换成英文或者别的语言，方法：`帮助》Language`。
 - AutoFileName
