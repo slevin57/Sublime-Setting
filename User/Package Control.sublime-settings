@@ -10,7 +10,9 @@
 		"BracketHighlighter",
 		"ChineseLocalizations",
 		"Color Highlighter",
+		"CSS Format",
 		"CSS Snippets",
+		"CSS3",
 		"CTags",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
@@ -24,6 +26,8 @@
 		"SublimeGit",
 		"SublimeTmpl",
 		"SyncedSideBar",
-		"Vuejs Snippets"
+		"Terminal",
+		"Vuejs Snippets",
+		"WordCount"
 	]
 }
