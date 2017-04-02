@@ -1,4 +1,6 @@
+![Sublime Text3](http://i1.piimg.com/583407/ba5f8509ca26b79b.png)
 
+---
 
 # 准备&&说明
 ## 更改配置文件的路径
