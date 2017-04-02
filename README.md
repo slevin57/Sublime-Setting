@@ -97,6 +97,9 @@ git clone <this repository address> Packages
 - Word Count
 
 	在左下角显示当前文件的单词数量。
+- AdvanceNewFile
+
+	可以快速在指定路径下创建文件；如果指定路径不存在的话会自动新建这个路径；
 
 # 自定义配置（持续更新...）
 - **全部保存**快捷键设置
@@ -105,6 +108,6 @@ git clone <this repository address> Packages
 	
 	```
 	[
-	{ "keys": ["ctrl+shift+s"], "command": "save_all" }
+		{ "keys": ["ctrl+shift+s"], "command": "save_all" }
 	]
 	```
