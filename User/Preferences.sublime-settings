@@ -3,5 +3,7 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"tab-size": 3,
+	"translate_tabs_to_spaces": true
 }
