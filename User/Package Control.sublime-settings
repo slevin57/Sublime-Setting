@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AngularJS",
 		"AutoFileName",
 		"Behat Features",
 		"BracketHighlighter",
