@@ -100,6 +100,13 @@ git clone <this repository address> Packages
 - AdvanceNewFile
 
 	可以快速在指定路径下创建文件；如果指定路径不存在的话会自动新建这个路径；
+- AngularJS
+
+	Angular语法智能提示。
+
+- IMESupport
+
+	输入中文时，实现输入法提示窗口跟随光标移动。
 
 # 自定义配置（持续更新...）
 - **全部保存**快捷键设置
