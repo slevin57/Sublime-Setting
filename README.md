@@ -110,6 +110,10 @@ git clone <this repository address> Packages
 
 	输入中文时，实现输入法提示窗口跟随光标移动。
 
+- LESS
+
+	支持LESS语法文件的代码高亮。
+
 # 自定义配置（持续更新...）
 - **全部保存**快捷键设置
 
