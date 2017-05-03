@@ -114,6 +114,10 @@ git clone <this repository address> Packages
 
 	支持LESS语法文件的代码高亮。
 
+- Flexbox Snippets
+
+	弹性盒子Flexbox语法片段自动补齐。
+
 # 自定义配置（持续更新...）
 - **全部保存**快捷键设置
 
