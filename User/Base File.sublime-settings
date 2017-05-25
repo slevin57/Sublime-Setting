@@ -1,0 +1,10 @@
+  {
+    "jsdocs_extra_tags":[
+        "@Author Hybrid",
+        "@DateTime {{date}}",
+        "@param ${1:[copyright]}",
+        "@param ${1:[license]}",
+        "@param ${1:[version]}"
+    ],
+    "jsdocs_function_description": false
+  }
