@@ -1,0 +1,4 @@
+  // 支持mathjax公式
+  {
+      "mathjax_enabled": true
+  } 

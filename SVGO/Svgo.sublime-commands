@@ -1,0 +1,7 @@
+[{
+  "caption": "SVGO: Minify SVG",
+  "command": "svgo_minify"
+}, {
+  "caption": "SVGO: Prettify SVG",
+  "command": "svgo_prettify"
+}]

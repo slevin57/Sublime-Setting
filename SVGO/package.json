@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "get-stdin": "^5.0.1",
+    "svgo": "^0.7.2"
+  }
+}

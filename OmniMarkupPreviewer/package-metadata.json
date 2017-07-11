@@ -1,0 +1,1 @@
+{"url": "http://timonwong.github.io/OmniMarkupPreviewer/", "dependencies": [], "version": "3.0.0", "platforms": ["*"], "sublime_text": "*", "description": "Live previewer/exporter for markup files (markdown, rst, creole, textile...)."}

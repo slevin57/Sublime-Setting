@@ -1,0 +1,8 @@
+Version 1.5.0
+-------------
+This is the third release version.
+
+
+* Nodejs code completion
+* Run node + node debug mode from Sublime, with optional arguments
+* Boilerplate snippets (HTTP Server, fs.readdir)
