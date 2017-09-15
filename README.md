@@ -118,6 +118,10 @@ git clone <this repository address> Packages
 
 	弹性盒子Flexbox语法片段自动补齐。
 
+- cssrem
+
+	支持px自动换算为rem
+
 # 自定义配置（持续更新...）
 - **全部保存**快捷键设置
 
