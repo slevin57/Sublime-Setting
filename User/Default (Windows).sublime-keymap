@@ -1,4 +1,3 @@
 [
-	
-{ "keys": ["ctrl+alt+s"], "command": "save_all" }
+    { "keys": ["ctrl+alt+s"], "command": "save_all" }
 ]
